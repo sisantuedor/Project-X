@@ -1,8 +1,8 @@
 Project-X
 
-Group: Jaylin, Sisan, Christian
+Group: Jaylen, Sisan, Christian
 
-Theme: ??
+Theme: Music
 
 Site primary: Christian
 
