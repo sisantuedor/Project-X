@@ -1,7 +1,9 @@
 #navbar {
     font-size: 100px;
 }
- 
+#drop-zone {
+    margin-top: 20px;
+}
 /* stuff for the nav bar */
 .navbar {
      display: flex;
