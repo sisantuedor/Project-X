@@ -1,3 +1,8 @@
 #navbar {
     font-size: 100px;
 }
+
+/* playlist page drop-zone image */
+#drop-zone{
+    margin-top: 20px;
+}
