@@ -1,10 +1,7 @@
 #navbar {
     font-size: 100px;
 }
-
-#drop-zone {
-    margin-top: 20px;
-}
+ 
 /* stuff for the nav bar */
 .navbar {
      display: flex;
@@ -33,3 +30,4 @@
      background-color: black;
      color: orangered;
  }
+>>>>>>> 79ef4b9f0b222a2452828d69fbb73aa8d457ca7f
