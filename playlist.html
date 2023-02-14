@@ -19,6 +19,32 @@
         <br><br>
         <input type="submit" value="Submit">
       </form>
+      <style>
+        #drop-zone {
+          width: 200px;
+          height: 200px;
+          border: 2px dashed #ccc;
+          text-align: center;
+          line-height: 200px;
+        }
+      </style>
+      
+      <div id="drop-zone">Drop your image here</div>
+      
+      <script>
+        const dropZone = document.querySelector('#drop-zone');
+        
+        dropZone.addEventListener('dragover', function(event) {
+          event.preventDefault();
+          event.dataTransfer.dropEffect = 'copy';
+        });
+        
+        dropZone.addEventListener('drop', function(event) {
+          event.preventDefault();
+          const image = event.dataTransfer.files[0];
+          console.log(image);
+        });
+      </script>
       
 </body>
 </html>
