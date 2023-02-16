@@ -1,0 +1,21 @@
+/* styles sheet for playlist */
+#playlistForm {
+    margin: 10%;
+    
+}
+#form {
+    margin: 20%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    border: solid 10px rgb(217, 162, 130, .25);
+    border-radius: 10px;
+    background-color: rgb(217, 162, 130, .25);
+    flex-direction: row;
+    align-content: flex-start;
+    position: relative;
+    top: -15vw;
+
+}
