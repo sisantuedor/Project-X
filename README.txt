@@ -1,6 +1,6 @@
 Project-X
 
-Group: Jaylen, Sisan, Christian
+Group: Jaylen, Christian
 
 Theme: Music
 
