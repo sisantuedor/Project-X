@@ -7,7 +7,7 @@
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-body{
+body {
   /* background-color: #ffffff; */
   /* background-image: url("music-gif.gif");
   background-size: cover; */
@@ -17,18 +17,18 @@ body{
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  height: 10vh; 
+  height: 10vh;
 }
 #header {
   font-size: 45px;
-    font-family: 'Courier New', monospace;
-    border: solid 1px #D9A282;
-    border-radius: 10px;
-    border-right: 10px;
-    border-left: 10px;
-    display: flex;
-    position: fixed;
-    right: 2vw;
+  font-family: "Courier New", monospace;
+  border: solid 1px #d9a282;
+  border-radius: 10px;
+  border-right: 10px;
+  border-left: 10px;
+  display: flex;
+  position: fixed;
+  right: 2vw;
 }
 
 #logoDiv {
@@ -67,11 +67,11 @@ body{
   text-decoration: none;
   border: solid 1px #ffffff;
   border-radius: 10px;
-  color: #D9A282;
+  color: #d9a282;
 }
 .tabs:hover {
   background-color: #ffffff;
-  color: #D9A282;
+  color: #d9a282;
 }
 #sideBar-ul {
   margin: 0;
@@ -89,7 +89,7 @@ body{
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   display: inline-flex;
   align-items: center;
-  color: #D9A282;
+  color: #d9a282;
 }
 .icons {
   margin: 3%;
@@ -105,15 +105,15 @@ body{
   margin: 2%;
   padding: 20px;
   text-align: center;
-  border: solid 10px rgb(217, 162, 130, .25);
-  background-color: rgb(217, 162, 130, .25);
+  border: solid 10px rgb(217, 162, 130, 0.25);
+  background-color: rgb(217, 162, 130, 0.25);
 }
 #headline-img {
   display: block;
   margin: 10%;
   width: 50%;
   height: auto;
-  border: solid 5px rgb(217, 162, 130, .25);
+  border: solid 5px rgb(217, 162, 130, 0.25);
 }
 
 #headline-title {
@@ -132,7 +132,7 @@ body{
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  height: 100vh; 
+  height: 100vh;
 }
 #menu-icon-div {
   position: relative;
